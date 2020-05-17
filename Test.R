@@ -66,7 +66,4 @@ p <- ggplot(data = dat, aes(x = Week, y = value, fill = taxa)) +
         axis.text.x = element_text(face = 'bold',color = 'black',size = 10),
         legend.text = element_text(face = 'bold',color = 'black',size = 10))
 p
-=======
-this is a test
-It is very successful
->>>>>>> 2ddca7ff4369a1b5bafac70753f3e22fecc1f705
+
