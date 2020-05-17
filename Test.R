@@ -1,4 +1,4 @@
-setwd("D:/GitHub/Rcode1")
+setwd("D:/GitHub/Rcode1")#why????
 library(magrittr) # need to run every time you start R and want to use %>%
 library(dplyr)    # alternative, this also loads %>%
 map = read.table('map.txt', row.names = 1, header = T)
